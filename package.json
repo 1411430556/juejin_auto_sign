@@ -1,0 +1,10 @@
+{
+  "name": "sign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "got": "10.0.0"
+  }
+}
