@@ -8,7 +8,7 @@ OR
 yarn
 ```
 
-+ 修改`/config.js`下的`cookie`以及`PUSH_PLUS_TOKEN`
++ 修改`/config.js`下的`cookie`、`aid`、`uuid`以及`PUSH_PLUS_TOKEN`
 
 + 本地测试
 
